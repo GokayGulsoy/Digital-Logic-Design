@@ -19,7 +19,7 @@
 14. Recitation Lecture Before Final
 
 
-[Click this link to go to Michael Baron's book](Textbook/Logic_and_computer_design_fundamentals.pdf)
+[Click this link to go to Moris Mano's book](Textbook/Logic_and_computer_design_fundamentals.pdf)
 
 [Click this link for the simulator (SimulIDE)](https://simulide.com/p/)
 
