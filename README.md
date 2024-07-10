@@ -19,4 +19,8 @@
 14. Recitation Lecture Before Final
 
 
-[Click this link to go to Michael Baron's book](Textbook/Michael_Baron_Probability_and_Statistics_for_Computer_Scientists.pdf)
+[Click this link to go to Michael Baron's book](Textbook/Logic_and_computer_design_fundamentals.pdf)
+
+[Click this link for the simulator (SimulIDE)](https://simulide.com/p/)
+
+[Click this link for the LABs of the course](https://web.iyte.edu.tr/~burakaslan/main.htm)
